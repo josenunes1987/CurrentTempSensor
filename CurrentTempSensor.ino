@@ -1,4 +1,4 @@
-// jose4@pm.me 13/10/2020
+// Jose Nunes 13/10/2020
 // updates CURRENTHOUSE each minute
 // updates LOCALTEMP2 each 10 minutes
 // NodeMCU ESP32, DHT22 temperature sensor
